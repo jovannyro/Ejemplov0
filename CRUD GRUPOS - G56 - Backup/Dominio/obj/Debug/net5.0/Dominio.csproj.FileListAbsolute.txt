@@ -1,0 +1,84 @@
+C:\Users\jnata\Documents\PROYECTOS\Ciclo3_NET_CORE\Borrame\Dominio\bin\Debug\net5.0\Dominio.deps.json
+C:\Users\jnata\Documents\PROYECTOS\Ciclo3_NET_CORE\Borrame\Dominio\bin\Debug\net5.0\Dominio.dll
+C:\Users\jnata\Documents\PROYECTOS\Ciclo3_NET_CORE\Borrame\Dominio\bin\Debug\net5.0\ref\Dominio.dll
+C:\Users\jnata\Documents\PROYECTOS\Ciclo3_NET_CORE\Borrame\Dominio\bin\Debug\net5.0\Dominio.pdb
+C:\Users\jnata\Documents\PROYECTOS\Ciclo3_NET_CORE\Borrame\Dominio\obj\Debug\net5.0\Dominio.csproj.AssemblyReference.cache
+C:\Users\jnata\Documents\PROYECTOS\Ciclo3_NET_CORE\Borrame\Dominio\obj\Debug\net5.0\Dominio.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jnata\Documents\PROYECTOS\Ciclo3_NET_CORE\Borrame\Dominio\obj\Debug\net5.0\Dominio.AssemblyInfoInputs.cache
+C:\Users\jnata\Documents\PROYECTOS\Ciclo3_NET_CORE\Borrame\Dominio\obj\Debug\net5.0\Dominio.AssemblyInfo.cs
+C:\Users\jnata\Documents\PROYECTOS\Ciclo3_NET_CORE\Borrame\Dominio\obj\Debug\net5.0\Dominio.csproj.CoreCompileInputs.cache
+C:\Users\jnata\Documents\PROYECTOS\Ciclo3_NET_CORE\Borrame\Dominio\obj\Debug\net5.0\Dominio.dll
+C:\Users\jnata\Documents\PROYECTOS\Ciclo3_NET_CORE\Borrame\Dominio\obj\Debug\net5.0\ref\Dominio.dll
+C:\Users\jnata\Documents\PROYECTOS\Ciclo3_NET_CORE\Borrame\Dominio\obj\Debug\net5.0\Dominio.pdb
+C:\Users\jnata\Documents\PROYECTOS\Ciclo3_NET_CORE\.NetCore_AspRazor-n-capas-\Dominio\bin\Debug\net5.0\Dominio.deps.json
+C:\Users\jnata\Documents\PROYECTOS\Ciclo3_NET_CORE\.NetCore_AspRazor-n-capas-\Dominio\bin\Debug\net5.0\Dominio.dll
+C:\Users\jnata\Documents\PROYECTOS\Ciclo3_NET_CORE\.NetCore_AspRazor-n-capas-\Dominio\bin\Debug\net5.0\ref\Dominio.dll
+C:\Users\jnata\Documents\PROYECTOS\Ciclo3_NET_CORE\.NetCore_AspRazor-n-capas-\Dominio\bin\Debug\net5.0\Dominio.pdb
+C:\Users\jnata\Documents\PROYECTOS\Ciclo3_NET_CORE\.NetCore_AspRazor-n-capas-\Dominio\obj\Debug\net5.0\Dominio.csproj.AssemblyReference.cache
+C:\Users\jnata\Documents\PROYECTOS\Ciclo3_NET_CORE\.NetCore_AspRazor-n-capas-\Dominio\obj\Debug\net5.0\Dominio.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jnata\Documents\PROYECTOS\Ciclo3_NET_CORE\.NetCore_AspRazor-n-capas-\Dominio\obj\Debug\net5.0\Dominio.AssemblyInfoInputs.cache
+C:\Users\jnata\Documents\PROYECTOS\Ciclo3_NET_CORE\.NetCore_AspRazor-n-capas-\Dominio\obj\Debug\net5.0\Dominio.AssemblyInfo.cs
+C:\Users\jnata\Documents\PROYECTOS\Ciclo3_NET_CORE\.NetCore_AspRazor-n-capas-\Dominio\obj\Debug\net5.0\Dominio.csproj.CoreCompileInputs.cache
+C:\Users\jnata\Documents\PROYECTOS\Ciclo3_NET_CORE\.NetCore_AspRazor-n-capas-\Dominio\obj\Debug\net5.0\Dominio.dll
+C:\Users\jnata\Documents\PROYECTOS\Ciclo3_NET_CORE\.NetCore_AspRazor-n-capas-\Dominio\obj\Debug\net5.0\ref\Dominio.dll
+C:\Users\jnata\Documents\PROYECTOS\Ciclo3_NET_CORE\.NetCore_AspRazor-n-capas-\Dominio\obj\Debug\net5.0\Dominio.pdb
+C:\Users\jnata\Documents\PROYECTOS\Ciclo3_NET_CORE\.NetCore_AspRazor-n-capas\Dominio\bin\Debug\net5.0\Dominio.deps.json
+C:\Users\jnata\Documents\PROYECTOS\Ciclo3_NET_CORE\.NetCore_AspRazor-n-capas\Dominio\bin\Debug\net5.0\Dominio.dll
+C:\Users\jnata\Documents\PROYECTOS\Ciclo3_NET_CORE\.NetCore_AspRazor-n-capas\Dominio\bin\Debug\net5.0\ref\Dominio.dll
+C:\Users\jnata\Documents\PROYECTOS\Ciclo3_NET_CORE\.NetCore_AspRazor-n-capas\Dominio\bin\Debug\net5.0\Dominio.pdb
+C:\Users\jnata\Documents\PROYECTOS\Ciclo3_NET_CORE\.NetCore_AspRazor-n-capas\Dominio\obj\Debug\net5.0\Dominio.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jnata\Documents\PROYECTOS\Ciclo3_NET_CORE\.NetCore_AspRazor-n-capas\Dominio\obj\Debug\net5.0\Dominio.AssemblyInfoInputs.cache
+C:\Users\jnata\Documents\PROYECTOS\Ciclo3_NET_CORE\.NetCore_AspRazor-n-capas\Dominio\obj\Debug\net5.0\Dominio.AssemblyInfo.cs
+C:\Users\jnata\Documents\PROYECTOS\Ciclo3_NET_CORE\.NetCore_AspRazor-n-capas\Dominio\obj\Debug\net5.0\Dominio.csproj.CoreCompileInputs.cache
+C:\Users\jnata\Documents\PROYECTOS\Ciclo3_NET_CORE\.NetCore_AspRazor-n-capas\Dominio\obj\Debug\net5.0\Dominio.dll
+C:\Users\jnata\Documents\PROYECTOS\Ciclo3_NET_CORE\.NetCore_AspRazor-n-capas\Dominio\obj\Debug\net5.0\ref\Dominio.dll
+C:\Users\jnata\Documents\PROYECTOS\Ciclo3_NET_CORE\.NetCore_AspRazor-n-capas\Dominio\obj\Debug\net5.0\Dominio.pdb
+C:\Users\jnata\Documents\PROYECTOS\Ciclo3_NET_CORE\.NetCore_AspRazor-n-capas\Dominio\obj\Debug\net5.0\Dominio.csproj.AssemblyReference.cache
+C:\Users\jnata\Documents\PROYECTOS\Ciclo3_NET_CORE\CRUD GRUPOS\Dominio\bin\Debug\net5.0\Dominio.deps.json
+C:\Users\jnata\Documents\PROYECTOS\Ciclo3_NET_CORE\CRUD GRUPOS\Dominio\bin\Debug\net5.0\Dominio.dll
+C:\Users\jnata\Documents\PROYECTOS\Ciclo3_NET_CORE\CRUD GRUPOS\Dominio\bin\Debug\net5.0\ref\Dominio.dll
+C:\Users\jnata\Documents\PROYECTOS\Ciclo3_NET_CORE\CRUD GRUPOS\Dominio\bin\Debug\net5.0\Dominio.pdb
+C:\Users\jnata\Documents\PROYECTOS\Ciclo3_NET_CORE\CRUD GRUPOS\Dominio\obj\Debug\net5.0\Dominio.csproj.AssemblyReference.cache
+C:\Users\jnata\Documents\PROYECTOS\Ciclo3_NET_CORE\CRUD GRUPOS\Dominio\obj\Debug\net5.0\Dominio.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jnata\Documents\PROYECTOS\Ciclo3_NET_CORE\CRUD GRUPOS\Dominio\obj\Debug\net5.0\Dominio.AssemblyInfoInputs.cache
+C:\Users\jnata\Documents\PROYECTOS\Ciclo3_NET_CORE\CRUD GRUPOS\Dominio\obj\Debug\net5.0\Dominio.AssemblyInfo.cs
+C:\Users\jnata\Documents\PROYECTOS\Ciclo3_NET_CORE\CRUD GRUPOS\Dominio\obj\Debug\net5.0\Dominio.csproj.CoreCompileInputs.cache
+C:\Users\jnata\Documents\PROYECTOS\Ciclo3_NET_CORE\CRUD GRUPOS\Dominio\obj\Debug\net5.0\Dominio.dll
+C:\Users\jnata\Documents\PROYECTOS\Ciclo3_NET_CORE\CRUD GRUPOS\Dominio\obj\Debug\net5.0\ref\Dominio.dll
+C:\Users\jnata\Documents\PROYECTOS\Ciclo3_NET_CORE\CRUD GRUPOS\Dominio\obj\Debug\net5.0\Dominio.pdb
+C:\Users\jnata\Documents\PROYECTOS\Ciclo3_NET_CORE\CRUD GRUPOS - G51\Dominio\bin\Debug\net5.0\Dominio.deps.json
+C:\Users\jnata\Documents\PROYECTOS\Ciclo3_NET_CORE\CRUD GRUPOS - G51\Dominio\bin\Debug\net5.0\Dominio.dll
+C:\Users\jnata\Documents\PROYECTOS\Ciclo3_NET_CORE\CRUD GRUPOS - G51\Dominio\bin\Debug\net5.0\ref\Dominio.dll
+C:\Users\jnata\Documents\PROYECTOS\Ciclo3_NET_CORE\CRUD GRUPOS - G51\Dominio\bin\Debug\net5.0\Dominio.pdb
+C:\Users\jnata\Documents\PROYECTOS\Ciclo3_NET_CORE\CRUD GRUPOS - G51\Dominio\obj\Debug\net5.0\Dominio.csproj.AssemblyReference.cache
+C:\Users\jnata\Documents\PROYECTOS\Ciclo3_NET_CORE\CRUD GRUPOS - G51\Dominio\obj\Debug\net5.0\Dominio.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jnata\Documents\PROYECTOS\Ciclo3_NET_CORE\CRUD GRUPOS - G51\Dominio\obj\Debug\net5.0\Dominio.AssemblyInfoInputs.cache
+C:\Users\jnata\Documents\PROYECTOS\Ciclo3_NET_CORE\CRUD GRUPOS - G51\Dominio\obj\Debug\net5.0\Dominio.AssemblyInfo.cs
+C:\Users\jnata\Documents\PROYECTOS\Ciclo3_NET_CORE\CRUD GRUPOS - G51\Dominio\obj\Debug\net5.0\Dominio.csproj.CoreCompileInputs.cache
+C:\Users\jnata\Documents\PROYECTOS\Ciclo3_NET_CORE\CRUD GRUPOS - G51\Dominio\obj\Debug\net5.0\Dominio.dll
+C:\Users\jnata\Documents\PROYECTOS\Ciclo3_NET_CORE\CRUD GRUPOS - G51\Dominio\obj\Debug\net5.0\ref\Dominio.dll
+C:\Users\jnata\Documents\PROYECTOS\Ciclo3_NET_CORE\CRUD GRUPOS - G51\Dominio\obj\Debug\net5.0\Dominio.pdb
+C:\Users\jnata\Documents\PROYECTOS\Ciclo3_NET_CORE\CRUD GRUPOS - G56\Dominio\bin\Debug\net5.0\Dominio.deps.json
+C:\Users\jnata\Documents\PROYECTOS\Ciclo3_NET_CORE\CRUD GRUPOS - G56\Dominio\bin\Debug\net5.0\Dominio.dll
+C:\Users\jnata\Documents\PROYECTOS\Ciclo3_NET_CORE\CRUD GRUPOS - G56\Dominio\bin\Debug\net5.0\ref\Dominio.dll
+C:\Users\jnata\Documents\PROYECTOS\Ciclo3_NET_CORE\CRUD GRUPOS - G56\Dominio\bin\Debug\net5.0\Dominio.pdb
+C:\Users\jnata\Documents\PROYECTOS\Ciclo3_NET_CORE\CRUD GRUPOS - G56\Dominio\obj\Debug\net5.0\Dominio.csproj.AssemblyReference.cache
+C:\Users\jnata\Documents\PROYECTOS\Ciclo3_NET_CORE\CRUD GRUPOS - G56\Dominio\obj\Debug\net5.0\Dominio.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jnata\Documents\PROYECTOS\Ciclo3_NET_CORE\CRUD GRUPOS - G56\Dominio\obj\Debug\net5.0\Dominio.AssemblyInfoInputs.cache
+C:\Users\jnata\Documents\PROYECTOS\Ciclo3_NET_CORE\CRUD GRUPOS - G56\Dominio\obj\Debug\net5.0\Dominio.AssemblyInfo.cs
+C:\Users\jnata\Documents\PROYECTOS\Ciclo3_NET_CORE\CRUD GRUPOS - G56\Dominio\obj\Debug\net5.0\Dominio.csproj.CoreCompileInputs.cache
+C:\Users\jnata\Documents\PROYECTOS\Ciclo3_NET_CORE\CRUD GRUPOS - G56\Dominio\obj\Debug\net5.0\Dominio.dll
+C:\Users\jnata\Documents\PROYECTOS\Ciclo3_NET_CORE\CRUD GRUPOS - G56\Dominio\obj\Debug\net5.0\ref\Dominio.dll
+C:\Users\jnata\Documents\PROYECTOS\Ciclo3_NET_CORE\CRUD GRUPOS - G56\Dominio\obj\Debug\net5.0\Dominio.pdb
+C:\Users\jnata\Documents\PROYECTOS\Ciclo3_NET_CORE\CRUD GRUPOS - G56 - Backup\Dominio\bin\Debug\net5.0\Dominio.deps.json
+C:\Users\jnata\Documents\PROYECTOS\Ciclo3_NET_CORE\CRUD GRUPOS - G56 - Backup\Dominio\bin\Debug\net5.0\Dominio.dll
+C:\Users\jnata\Documents\PROYECTOS\Ciclo3_NET_CORE\CRUD GRUPOS - G56 - Backup\Dominio\bin\Debug\net5.0\ref\Dominio.dll
+C:\Users\jnata\Documents\PROYECTOS\Ciclo3_NET_CORE\CRUD GRUPOS - G56 - Backup\Dominio\bin\Debug\net5.0\Dominio.pdb
+C:\Users\jnata\Documents\PROYECTOS\Ciclo3_NET_CORE\CRUD GRUPOS - G56 - Backup\Dominio\obj\Debug\net5.0\Dominio.csproj.AssemblyReference.cache
+C:\Users\jnata\Documents\PROYECTOS\Ciclo3_NET_CORE\CRUD GRUPOS - G56 - Backup\Dominio\obj\Debug\net5.0\Dominio.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jnata\Documents\PROYECTOS\Ciclo3_NET_CORE\CRUD GRUPOS - G56 - Backup\Dominio\obj\Debug\net5.0\Dominio.AssemblyInfoInputs.cache
+C:\Users\jnata\Documents\PROYECTOS\Ciclo3_NET_CORE\CRUD GRUPOS - G56 - Backup\Dominio\obj\Debug\net5.0\Dominio.AssemblyInfo.cs
+C:\Users\jnata\Documents\PROYECTOS\Ciclo3_NET_CORE\CRUD GRUPOS - G56 - Backup\Dominio\obj\Debug\net5.0\Dominio.csproj.CoreCompileInputs.cache
+C:\Users\jnata\Documents\PROYECTOS\Ciclo3_NET_CORE\CRUD GRUPOS - G56 - Backup\Dominio\obj\Debug\net5.0\Dominio.dll
+C:\Users\jnata\Documents\PROYECTOS\Ciclo3_NET_CORE\CRUD GRUPOS - G56 - Backup\Dominio\obj\Debug\net5.0\ref\Dominio.dll
+C:\Users\jnata\Documents\PROYECTOS\Ciclo3_NET_CORE\CRUD GRUPOS - G56 - Backup\Dominio\obj\Debug\net5.0\Dominio.pdb
